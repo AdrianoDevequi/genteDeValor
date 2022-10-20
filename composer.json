@@ -1,0 +1,24 @@
+{
+  "name": "adriano-devequi/gente-de-valor-adama",
+  "description": "Site Gente de Valor Adama",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Adriano Devequi",
+      "email": "adrianodevequi@gmail.com",
+      "homepage": "https://agenciamango.com.br",
+      "role": "Developer"
+    }
+  ],
+  "config": {
+    "vendor-dir": "vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    }
+  },
+  "require": {
+
+  }
+}

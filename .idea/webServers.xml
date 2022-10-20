@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f8b9a8b9-0179-44a2-a0b9-ecdb00a4eba9" name="Gente de Valor FTP" url="http://gentedevalor.agenciamango.com.br">
+        <fileTransfer rootFolder="/httpdocs" host="67.23.238.71" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

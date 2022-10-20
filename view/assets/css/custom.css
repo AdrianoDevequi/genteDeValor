@@ -1,0 +1,89 @@
+body p h1, h2, h3, h4, h5, h6{
+    font-family: 'Nunito';
+}
+
+.bg-login {
+    background-color: #EEEEEE;
+    border-radius: 10px;
+}
+.bg_menu {
+    background-color: #131313;
+}
+#menu a.nav-link {
+    color: #fff;
+}
+a.nav-link:hover {
+    color: #f69c00;
+}
+.btn-valores {
+    color: #fff!important;
+    border-radius: 7px!important;
+    padding: 15px!important;
+}
+.btn-valores.btn-fazer-acontecer {
+    background-color: #155198!important;
+}
+.btn-valores.btn-criar-simplicidade {
+    background-color: #389a45!important;
+    border-radius: 7px!important;
+}
+.btn-valores.btn-fortalecer-pessoas {
+    background-color: #b0541d!important;
+}
+.btn-valores.btn-paixao {
+    background-color: #422554!important;
+}
+.box-ranking-home{
+    background-color: #e9e9e9;
+    border-radius: 7px
+}
+.info-ranking{
+    font-size: 20px;
+}
+span.badge.bg-primary.rounded-pill {
+    font-size: 15px;
+}
+.avatar-imagem{
+    border-radius: 10px;
+}
+.img-bg-login{
+    background-image: url('https://gentedevalor.agenciamango.com.br/view/assets/images/bg-login.svg');
+    background-repeat: no-repeat;
+    background-position: 0px 340px;
+    background-size: cover;
+}
+.nome-topo {
+    margin-right: 41px;
+    margin-bottom: -30px;
+    z-index: 20;
+    font-size: 13px;
+}
+.box-valores-fazer-acontecer{
+    border: 2px solid #15529A;
+    border-radius: 10px;
+    min-height: 409px;
+}
+.box-valores-criar-simplicidade{
+    border: 2px solid #389A45;
+    border-radius: 10px;
+    min-height: 409px;
+}
+.box-valores-fortalecer-pessoas{
+    border: 2px solid #B0541D;
+    border-radius: 10px;
+    min-height: 409px;
+}
+.box-valores-paixao{
+    border: 2px solid #422554;
+    border-radius: 10px;
+    min-height: 409px;
+}
+.img-lista-unidades{
+    width: 180px;
+    height: 180px!important;
+    object-fit: cover;
+}
+.img-lista-ranking{
+    height: 80px!important;
+    object-fit: cover;
+}
